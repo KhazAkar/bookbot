@@ -1,2 +1,2 @@
 # bookbot
-Boot.dev bookbot guided project.
+Boot.dev bookbot guided project. Completing the course! :)
